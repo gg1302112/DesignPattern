@@ -1,4 +1,4 @@
-package singleton;
+package com.lzw.singleton;
 
 /**
  * 饿汉式

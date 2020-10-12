@@ -1,4 +1,4 @@
-package singleton;
+package com.lzw.singleton;
 
 /**
  * 与01一个意思

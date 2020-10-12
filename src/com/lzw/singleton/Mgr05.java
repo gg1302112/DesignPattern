@@ -1,4 +1,4 @@
-package singleton;
+package com.lzw.singleton;
 
 /**
  * 减小同步代码块，但是行不通

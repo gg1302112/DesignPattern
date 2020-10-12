@@ -1,4 +1,4 @@
-package singleton;
+package com.lzw.singleton;
 
 /**
  * 不仅可以解决线程同步问题，还可以解决序列化

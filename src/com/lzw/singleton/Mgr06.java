@@ -1,4 +1,4 @@
-package singleton;
+package com.lzw.singleton;
 
 /**
  * 经过Mgr05，也是可以使用双重判断解决如下，完美解决

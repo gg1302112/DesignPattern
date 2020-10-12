@@ -1,4 +1,4 @@
-package singleton;
+package com.lzw.singleton;
 
 /**
  * 虽然达到了按需初始化的目的，但却带来线程不安全的问题，多线程是容易创建多个实例

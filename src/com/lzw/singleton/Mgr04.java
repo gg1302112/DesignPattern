@@ -1,4 +1,4 @@
-package singleton;
+package com.lzw.singleton;
 
 /**
  * 和mgr03相比，虽然解决了线程不安全问题，但却带来了效率低下

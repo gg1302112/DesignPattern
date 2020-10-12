@@ -1,4 +1,4 @@
-package singleton;
+package com.lzw.singleton;
 
 /**
  * 使用内部静态类的方法，也是比较完美的解决问题
